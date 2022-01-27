@@ -1,0 +1,86 @@
+const mypromise = new Promise((resolved,reject)=>{
+//one days i want to make president os this domain
+if(Math.random*100<50){
+    console.log("this idea is good")
+   resolved("this is godd")
+    //i will ad some comments to this idea or you can use resolved and in else you can use reject
+} else{
+reject("thats bad")
+// you can us this
+}
+})
+myPromise.then(
+(resolved)=>console.log(resolved),
+(reject)=>console.log(reject),
+);
+myPromise.catch((rejected)=>console.log(rejected));
+//to connect yourself with your api
+let myRequest = new XMLHttpRequest();
+myRequest.onreadystatechange = function(){
+    if(myRequest==20&&this.status==20){
+      console.log(ThisResponseText)
+    }
+}
+myRequest.open("get","api")
+myRequest.send();
+//this comment to ad promise to this function
+const getFirstRepo = (api,URL)=>{
+  return new Promise((resolve,reject)=>{
+    myPromise.catch((rejected)=>console.log(rejected));
+    //to connect yourself with your api
+    let myRequest = new XMLHttpRequest();
+    myRequest.onreadystatechange = function(){
+      console.log(JSON.parse(this.responseText))
+        if(myRequest==20&&this.status==20){
+          console.log(ThisResponseText).name
+          resolve(JSON .ThisResponseText)
+        }
+        else{
+          reject(Error(this.statusText))
+        }
+    }
+    myRequest.open("get","api")
+    myRequest.send();
+  });
+}
+getFirstRepo("//some example i cant make api so i will ad a new pwi").then(
+  resolve("thats good"),
+  (result) => console.log(result),
+  (TypeError)=>console.log("error")
+)
+const myPromise = new Promise((resolve,reject)=>{
+  theposts=["my name","taha","kourane","a","b"]
+  resolve(theposts)
+  //or you can use console.log
+})
+myPromise.then(
+(ressult)=>{
+  console.log(`total numbers of posts is ${posts.length}`)
+}
+)
+//fetch
+fetch.then((resolve,reject)=>{
+  let allrepos=results.JSON;
+  console.log(allRepos);
+  return allRepos
+})
+.then((resolve,reject)=>{
+  let allrepos=results.JSON;
+  console.log(allRepos);
+  return allRepos
+})
+console.log(taha.repeat(30))
+//you can make your dream reel but you want to make war
+console.log("you can make yoyr dream reel but you wan to make reel")
+let allrepos=results.JSON;
+console.log(allRepos)
+function sayhello(){
+  name=this.name;
+  firstname=this.firstname;
+  return`name${this.name},${this.firstname}`
+}
+let myname = newname("tahakourani")\\
+
+
+
+

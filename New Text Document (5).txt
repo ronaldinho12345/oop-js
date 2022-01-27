@@ -1,0 +1,38 @@
+((name,email)=>{
+    this.name=name,
+    this.email=email
+    console.log("my name is taha kourane AND iam programmer so iwant to makes some progrAMMING")
+    resolve(" my nAME IS TAHA KOURANE and i am programmer so uiw an to makes some programming")
+})
+let user= new user("tahakourane","tahakouran88@gmail.com")
+console.log(user.name)
+console.log(user.email);
+["name","email","password","age","function","name","my name is taha kourane"]=user;
+console.log(user.name)
+let name =new name("my name is taha kourane and i am programmer so iw ant to make someprogrammed lnguages")
+console.log(name)
+((fetch,name)=>{
+this.fetch=fetch;
+this.name=new name;
+})
+let array= new Int32Array("name","country")
+(()=>{
+    console.log(NamedNodeMap)
+    document.getElementsByClassName(taha).value
+    console.log("name")
+
+})
+let Promise=new PerformanceServerTiming("my name is taha kourane")
+console.log('promise')
+document.write("my name is taha kourane and ia m rogrammer")
+const x = ',';
+const y =';';
+z=x+y;
+console.log(z)
+if(z=x+y){
+yield 1
+console.log(resolve)
+}else{
+    console.log(PromiseRejectionEvent)
+}
+console.log("my name is taha kourane".repeat(30))
